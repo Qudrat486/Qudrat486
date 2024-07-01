@@ -23,35 +23,14 @@ contribute to dynamic teams and impactful projects.
 
 
 
-### [Attendance Management System](https://github.com/AmirAbbas101/Attendance-Management-System)
+### [Attendance Management System](https://github.com/Qudrat486/Pyfingure-Attender)
 - A comprehensive system to manage and track student attendance.
 - Built with Python, featuring a user-friendly interface and robust database integration.
 
-### [HTML Portfolio](https://github.com/AmirAbbas101/html-portfolio)
-- A personal portfolio website showcasing my projects and skills.
-- Developed using HTML, CSS, and JavaScript, featuring responsive design.
-
-### [Gym Fitness Center Using C# .Net Windows Form Application](https://github.com/AmirAbbas101/GymFitnessCenter-Using-C-.Net-Windows-Form-Application)
-- A management application for gym and fitness centers.
-- Includes features for member management, workout plans, and payment tracking.
-
-### [Go Mart Application (5th Semester Project)](https://github.com/AmirAbbas101/Go-Mart-Application-5th-semester-project)
-- A shopping application developed as a semester project.
-- Built using .Net, with functionalities for inventory management, order processing, and customer management.
-
-### [Scientific Calculator using C#](https://github.com/AmirAbbas101/Scientific-Calculator-using-CS-)
-- A scientific calculator application developed in C#.
-- Supports various mathematical operations and provides a user-friendly interface.
 
 ## 📚 Education
 
 - **BS in Computer Science** from [UAD (THE UNIVERSITY OF AGRICULTURE, D.I.KHAN)](https://www.uad.edu.pk/), Expected Graduation: 2025
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-amir-abbas)
-[![X](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/@amirabb58167108/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://amirabbas101.github.io/Amir-Abbas-Portfolio)
 
 ## 🤝 Let's Collaborate
 
@@ -59,6 +38,6 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## 📊 GitHub Stats
 
-[![Amir Abbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirAbbas101&show_icons=true&hide=prs&count_private=true&theme=radical)](https://github.com/AmirAbbas101)
+[![Qudrat486's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qudrat486&show_icons=true&hide=prs&count_private=true&theme=radical)](https://github.com/Qudrat486)
 
 Thanks for stopping by! 😊
