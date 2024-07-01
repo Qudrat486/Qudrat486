@@ -30,7 +30,7 @@ contribute to dynamic teams and impactful projects.
 
 ## 📚 Education
 
-- **BS in Computer Science** from [UAD (THE UNIVERSITY OF AGRICULTURE, D.I.KHAN)](https://www.uad.edu.pk/), Expected Graduation: 2025
+- **BS in Computer Science** from [UAD (THE UNIVERSITY OF AGRICULTURE, D.I.KHAN)](https://www.uad.edu.pk/).
 
 ## 🤝 Let's Collaborate
 
